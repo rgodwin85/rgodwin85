@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rgodwin85. 
-- 👀 I’m interested in Python Development.
-- 🌱 I’m currently learning Python.
+- 👀 I’m a self-taught Python Developer and Certified Data Analyst.
 - 💞️ I’m looking to collaborate on Python Development Projects.
 - 📫 How to reach me https://www.linkedin.com/in/rodneygodwin/
 
