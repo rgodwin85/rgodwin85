@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rgodwin85. 
-- 👀 I’m a self-taught Python Developer and Certified Data Analyst.
-- 💞️ I’m looking to collaborate on Python Development Projects.
+- 👀 I’m a self-taught Python Developer and Cybersecurity Professional.
+- 💞️ I’m looking to collaborate on Security related Python Development Projects.
 - 📫 How to reach me https://www.linkedin.com/in/rodneygodwin/
 
 <!---
