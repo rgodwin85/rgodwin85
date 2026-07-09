@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rgodwin85. 
-- 👀 I’m a self-taught Python Developer and Cybersecurity Professional.
+- 👀 I’m a self-taught Python Developer and Data Engineering Professional.
 - 💞️ I’m looking to collaborate on Security related Python Development Projects.
 - 📫 How to reach me https://www.linkedin.com/in/rodneygodwin/
 
